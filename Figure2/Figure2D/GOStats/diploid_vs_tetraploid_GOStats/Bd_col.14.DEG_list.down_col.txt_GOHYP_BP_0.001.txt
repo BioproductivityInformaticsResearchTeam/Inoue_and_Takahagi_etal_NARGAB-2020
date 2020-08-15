@@ -1,0 +1,4 @@
+"GOBPID"	"Pvalue"	"OddsRatio"	"ExpCount"	"Count"	"Size"	"Term"
+"1"	"GO:0006928"	0.000194292747890442	15.6073926073926	0.287890327494288	4	56	"movement of cell or subcellular component"
+"2"	"GO:0007018"	0.000194292747890442	15.6073926073926	0.287890327494288	4	56	"microtubule-based movement"
+"3"	"GO:0007017"	0.00032544996395582	9.22475106685633	0.596344249809596	5	116	"microtubule-based process"

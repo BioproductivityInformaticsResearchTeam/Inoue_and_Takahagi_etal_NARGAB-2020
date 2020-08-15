@@ -1,0 +1,4 @@
+"GOBPID"	"Pvalue"	"OddsRatio"	"ExpCount"	"Count"	"Size"	"Term"
+"1"	"GO:0072348"	1.65077919134412e-05	18.8786397449522	0.661144960649911	6	11	"sulfur compound transport"
+"2"	"GO:0008272"	1.65077919134412e-05	18.8786397449522	0.661144960649911	6	11	"sulfate transport"
+"3"	"GO:0040029"	0.000453372152221179	2.59333197086801	8.11405178979436	19	135	"regulation of gene expression, epigenetic"

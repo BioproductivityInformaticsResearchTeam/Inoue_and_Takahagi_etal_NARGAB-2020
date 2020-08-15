@@ -1,0 +1,18 @@
+library(DESeq2)
+
+load("dds.rda")
+
+res <- results(dds, contrast = c("con", "Bd21.2", "col.2"))
+write.table(res,"Bd_col.2.txt")
+res <- results(dds, contrast = c("con", "Bd21.2", "sta.2"))
+write.table(res,"Bd_Bs.2.txt")
+res <- results(dds, contrast = c("con", "Bd21.2", "Bh.2"))
+write.table(res,"Bd_Bh.2.txt")
+res <- results(dds, contrast = c("con", "col.2", "sta.2"))
+write.table(res,"col_Bs.2.txt")
+res <- results(dds, contrast = c("con", "col.2", "Bh.2"))
+write.table(res,"col_Bh.2.txt")
+res <- results(dds, contrast = c("con", "sta.2", "Bh.2"))
+write.table(res,"Bs_Bh.2.txt")
+res <- results(dds, contrast = c("con", "BhBd.2", "BhBs.2"))
+write.table(res,"BhBd_BhBs.2.txt")

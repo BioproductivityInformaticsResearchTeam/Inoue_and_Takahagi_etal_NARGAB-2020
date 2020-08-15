@@ -1,0 +1,10 @@
+goid	goterm	10	14	18	22	2	6
+GO:0050896	response to stimulus	0	6.00188372875462	0	0	0	0
+GO:0019684	photosynthesis, light reaction	0	4.74173270425864	0	0	0	0
+GO:0009765	photosynthesis, light harvesting	0	4.56971632514083	0	0	0	0
+GO:0055114	oxidation-reduction process	0	4.07854277183019	0	0	0	0
+GO:0009628	response to abiotic stimulus	0	5.51727655037773	0	0	0	0
+GO:0006091	generation of precursor metabolites and energy	0	7.2654568057585	0	0	0	0
+GO:0009719	response to endogenous stimulus	0	4.58645164436223	0	0	0	0
+GO:0015979	photosynthesis	0	8.09819732033522	0	0	0	0
+
