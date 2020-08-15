@@ -1,3 +1,5 @@
+Readme.txt
+
 Data associated with Inoue and Takahagi et al. NARGAB (2020) 
 
 /RNA-seq
