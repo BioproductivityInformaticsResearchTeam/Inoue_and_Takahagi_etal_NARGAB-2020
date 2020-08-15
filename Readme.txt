@@ -1,7 +1,5 @@
-# NARGAB-2019-109
- Data associated with NARGAB-2019-109
+Data associated with Inoue and Takahagi et al. NARGAB (2020) 
 
-Data associated with RNA-seq analysis in NARGAB-2019-109
 /RNA-seq
     /mapping
         SamToFastq2tmap.pl : Perl script code used to QC of raw fastq files and mapping of the clean reads 
